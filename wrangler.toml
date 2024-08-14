@@ -11,7 +11,7 @@ custom_domain = true
 pattern = "investors.spotify.com.sg1.daff4net.xyz"
 custom_domain = true
 [[routes]]
-pattern = "104.17.70.206.sg1.daff4net.xyz"
+pattern = "cdnodeb.visionplus.id.sg1.daff4net.xyz"
 custom_domain = true
 
 [vars]
